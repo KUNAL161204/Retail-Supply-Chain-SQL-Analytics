@@ -13,3 +13,7 @@ An end-to-end **SQL & Python Data Analytics** project designed to analyze 100,00
    - **Inventory Risk Classification**: Uses conditional CASE aggregations to flag high-risk stockout SKUs.
 3. **Python ETL & Memory Optimization (etl_and_eda.py)**:
    - Cleans raw transactional logs, deduplicates composite keys, downcasts numeric/categorical columns in Pandas (reducing RAM usage by ~50%+), and exports monthly KPI summaries for **Power BI / Excel** visualization.
+
+## Executive KPI Dashboard Preview
+![Supply Chain KPI Dashboard](dashboard_preview.png)
+
