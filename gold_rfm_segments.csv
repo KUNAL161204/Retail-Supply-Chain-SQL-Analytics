@@ -1,0 +1,5 @@
+customer_segment,customer_count,avg_recency_days,avg_orders,avg_ltv_usd,segment_total_revenue
+Loyal Customers,9575,16.8,20.7,27984.16,267948319.0
+Champions,6136,9.2,24.7,35577.65,218304454.85
+Potential Loyalists,5783,20.8,17.1,21083.77,121927433.91
+At-Risk / Churned,3506,35.2,14.7,17051.41,59782259.95

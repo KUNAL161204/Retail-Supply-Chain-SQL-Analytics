@@ -1,0 +1,21 @@
+category,region,unbilled_order_count,leaked_revenue_usd,avg_unbilled_order_value
+Electronics,North,810,2016977.37,2490.1
+Electronics,West,701,1834417.93,2616.86
+Electronics,South,561,1495820.31,2666.35
+Electronics,East,398,1024445.01,2573.98
+Home & Kitchen,North,592,671237.77,1133.85
+Home & Kitchen,West,559,644369.55,1152.72
+Automotive,North,371,626021.67,1687.39
+Automotive,West,360,599073.81,1664.09
+Home & Kitchen,South,448,523507.25,1168.54
+Automotive,South,295,499721.03,1693.97
+Home & Kitchen,East,339,397847.93,1173.59
+Automotive,East,198,320728.39,1619.84
+Apparel,North,574,312481.39,544.39
+Apparel,West,490,273028.36,557.2
+Apparel,South,445,233329.45,524.34
+Apparel,East,285,148627.48,521.5
+FMCG,North,467,101681.94,217.73
+FMCG,West,428,96337.37,225.09
+FMCG,South,392,92969.61,237.17
+FMCG,East,292,65577.71,224.58

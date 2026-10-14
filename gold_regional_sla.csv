@@ -1,0 +1,21 @@
+region,category,total_orders,avg_lead_time_days,sla_breach_rate_pct,stockout_rate_pct,total_revenue
+East,Electronics,22604,5.5,54.78,4.52,57947002.33
+East,Home & Kitchen,17037,5.51,55.4,4.76,19455373.69
+East,Automotive,11050,5.45,50.99,4.67,18410550.62
+East,Apparel,16087,5.54,54.42,4.66,8652732.59
+East,FMCG,13588,5.55,55.82,4.53,3089675.28
+North,Electronics,44322,5.49,54.52,4.46,113483465.22
+North,Home & Kitchen,32882,5.51,55.15,4.42,37663120.43
+North,Automotive,21916,5.43,50.61,4.73,36472876.44
+North,Apparel,31911,5.48,53.47,4.41,17086658.24
+North,FMCG,26642,5.49,54.31,4.77,6104817.68
+South,Electronics,33642,5.48,54.54,4.59,86460497.44
+South,Home & Kitchen,24915,5.52,55.89,4.53,28736808.22
+South,Automotive,16397,5.5,51.62,4.32,27270476.95
+South,Apparel,23928,5.49,53.58,4.64,12788525.36
+South,FMCG,20466,5.5,54.98,4.72,4695887.93
+West,Electronics,39408,5.47,53.76,4.4,100846916.63
+West,Home & Kitchen,30277,5.49,55.28,4.41,34613659.13
+West,Automotive,19655,5.49,51.34,4.52,33072979.11
+West,Apparel,28700,5.5,53.89,4.61,15487549.91
+West,FMCG,24573,5.51,55.22,4.48,5622894.61
